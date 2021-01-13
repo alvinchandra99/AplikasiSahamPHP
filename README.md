@@ -1,6 +1,6 @@
 # AplikasiSahamPHP
 
-Aplikasi saham dengan PHP MVC
+Aplikasi saham dengan konsep PHP MVC
 
 Screenshot :
 - https://prnt.sc/wmh0vj
